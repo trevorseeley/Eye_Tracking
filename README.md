@@ -1,6 +1,6 @@
 # Eye Tracker
 
-## Eye tracking coding exercise. See it live <a href="https://trevorseeley.github.io/Eye_Tracking"> here. </a>
+## Eye tracking coding exercise. See it live <a href="https://trevorseeley.github.io/Eye_Tracking"> here. It involves a combination of HTML, CSS, and JavaScrip. combinging them all to create two eyes that follow the mouse cursor around the screen.</a>
 
 
 Check out the Pacman Exercise: <a href="https://trevorseeley.github.io/PacMan_Factory"> Click Here </a>
