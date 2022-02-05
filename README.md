@@ -1,4 +1,4 @@
-# Eye_Tracking
+# Eye Tracker
 
 ## Eye tracking coding exercise.
 
